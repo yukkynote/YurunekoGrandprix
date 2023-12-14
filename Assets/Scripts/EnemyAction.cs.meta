@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 924e85265e602d542a1d7051b4d638b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PatSmoke: {instanceID: 0}
+  - cat1: {fileID: 8300000, guid: 11c1c52e25c919641a65c0706db16581, type: 3}
+  - pyun: {fileID: 8300000, guid: 24a3c590ab1ebb946be20237c2ef44e5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

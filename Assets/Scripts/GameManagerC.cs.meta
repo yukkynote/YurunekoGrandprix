@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 7d48c610de4869646aa78b17376c6c75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Fish: {fileID: 6754712762572037542, guid: 8a8e2ec3b2168694c94cd344c93dd874, type: 3}
+  - Enemy0: {instanceID: 0}
+  - Enemy1: {instanceID: 0}
+  - Enemy2: {instanceID: 0}
+  - Enemy3: {instanceID: 0}
+  - Enemy4: {instanceID: 0}
+  - Enemy5: {instanceID: 0}
+  - Enemy6: {instanceID: 0}
+  - Enemy7: {instanceID: 0}
+  - txtMessage: {instanceID: 0}
+  - txtNavigate: {instanceID: 0}
+  - txtTime: {instanceID: 0}
+  - txtRank: {instanceID: 0}
+  - txtProgress: {instanceID: 0}
+  - txtCheckCount: {instanceID: 0}
+  - pauseMenu: {instanceID: 0}
+  - tutorialMenu: {instanceID: 0}
+  - menu1SelectText: {instanceID: 0}
+  - menu2SelectText: {instanceID: 0}
+  - menu3SelectText: {instanceID: 0}
+  - helpMenu: {instanceID: 0}
+  - rankingMenu: {instanceID: 0}
+  - menuSelectText: {instanceID: 0}
+  - EnterImage: {instanceID: 0}
+  - SE_Goal: {instanceID: 0}
+  - cursor: {instanceID: 0}
+  - submit: {instanceID: 0}
+  - cat1: {fileID: 8300000, guid: 11c1c52e25c919641a65c0706db16581, type: 3}
+  - countdown: {fileID: 8300000, guid: cc4ec9d40f42c0b4eaeb2fe3c4155a67, type: 3}
+  - kansei: {fileID: 8300000, guid: a4a109ea6db8d73468f8c95feabe0c8b, type: 3}
+  - pyun: {fileID: 8300000, guid: 24a3c590ab1ebb946be20237c2ef44e5, type: 3}
+  - speedup: {fileID: 8300000, guid: 9c1c2ebb55b118a4a852754a4ade4427, type: 3}
+  - PatGoal: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
